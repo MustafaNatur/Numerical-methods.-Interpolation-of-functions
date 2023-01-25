@@ -1,0 +1,3 @@
+H:\Комп Адама 14.12.2022\adamnatur\Desktop\Бела флешка\SDI_Lab_1\Debug\SDI_Lab_1.exe
+D:\SDI_Lab_1\Debug\SDI_Lab_1.exe
+C:\Users\musta\OneDrive\Рабочий стол\repos\Numerical methods. Interpolation of tabulated functions\Numerical-methods.-Interpolation-of-functions\SDI_Lab_1\Debug\SDI_Lab_1.exe

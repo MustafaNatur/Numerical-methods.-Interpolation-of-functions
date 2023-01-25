@@ -1,0 +1,7 @@
+﻿  SDI_Lab_1Doc.cpp
+C:\Users\musta\OneDrive\Рабочий стол\repos\Numerical methods. Interpolation of tabulated functions\Numerical-methods.-Interpolation-of-functions\SDI_Lab_1\SDI_Lab_1Doc.h(35,6): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\musta\OneDrive\Рабочий стол\repos\Numerical methods. Interpolation of tabulated functions\Numerical-methods.-Interpolation-of-functions\SDI_Lab_1\SDI_Lab_1Doc.cpp(19,10): fatal  error C1083: Не удается открыть файл включение: gsl/gsl_errno.h: No such file or directory,
+  SDI_Lab_1View.cpp
+C:\Users\musta\OneDrive\Рабочий стол\repos\Numerical methods. Interpolation of tabulated functions\Numerical-methods.-Interpolation-of-functions\SDI_Lab_1\SDI_Lab_1Doc.h(35,6): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\musta\OneDrive\Рабочий стол\repos\Numerical methods. Interpolation of tabulated functions\Numerical-methods.-Interpolation-of-functions\SDI_Lab_1\SDI_Lab_1View.cpp(26,10): fatal  error C1083: Не удается открыть файл включение: gsl/gsl_errno.h: No such file or directory,
+  Создание кода...

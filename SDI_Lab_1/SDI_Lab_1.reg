@@ -1,0 +1,15 @@
+﻿REGEDIT
+; Возможно, этот файл .REG используется программой установки.
+;   Если программа SETUP недоступна, записи, расположенные ниже, будут зарегистрированы
+;   в InitInstance автоматически с вызовом в
+;   CWinApp::RegisterShellFileTypes и COleObjectFactory::UpdateRegistryAll.
+
+HKEY_CLASSES_ROOT\.sdi = SDILab1.Document
+HKEY_CLASSES_ROOT\SDILab1.Document\shell\open\command = SDI_Lab_1.EXE %1
+HKEY_CLASSES_ROOT\SDILab1.Document\shell\open\ddeexec = [open("%1")]
+HKEY_CLASSES_ROOT\SDILab1.Document\shell\open\ddeexec\application = SDI_Lab_1
+    ; примечание: приложение необязательно
+    ;  (по умолчанию для имени приложения в команде)
+
+HKEY_CLASSES_ROOT\SDILab1.Document = SDI_Lab_1.Document
+

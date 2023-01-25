@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  MainFrm.cpp
+  CMyTreeView.cpp
+  SDI_Lab_1.cpp
+  SDI_Lab_1Doc.cpp
+  SDI_Lab_1View.cpp
+C:\Users\musta\OneDrive\Рабочий стол\repos\Numerical methods. Interpolation of tabulated functions\Numerical-methods.-Interpolation-of-functions\SDI_Lab_1\SDI_Lab_1View.cpp(98,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\musta\OneDrive\Рабочий стол\repos\Numerical methods. Interpolation of tabulated functions\Numerical-methods.-Interpolation-of-functions\SDI_Lab_1\SDI_Lab_1View.cpp(99,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\musta\OneDrive\Рабочий стол\repos\Numerical methods. Interpolation of tabulated functions\Numerical-methods.-Interpolation-of-functions\SDI_Lab_1\SDI_Lab_1View.cpp(100,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  SDI_Lab_1.vcxproj -> C:\Users\musta\OneDrive\Рабочий стол\repos\Numerical methods. Interpolation of tabulated functions\Numerical-methods.-Interpolation-of-functions\SDI_Lab_1\Debug\SDI_Lab_1.exe
